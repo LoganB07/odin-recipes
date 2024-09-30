@@ -1,3 +1,10 @@
+* {
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
 .main-title {
     font-family: 'Brush Script MT', 'sans-serif';
     text-align: center;
@@ -5,9 +12,33 @@
     font-size: 40px;
 }
 
+.background {
+    background-color: rgb(233, 232, 191);
+    vertical-align: center;
+}
+
 .list {
     font-family: 'Garamond', 'sans-serif';
-    text-align: center;
-    background-color: rgb(233, 232, 191);
+    text-align: left;
     font-size: 20px;
+    position: relative;
+    left: 35%;
+}
+
+.pic {
+    height: auto;
+    width: 300px;
+    padding-left: 40%;
+}
+
+.description {
+    text-align: center;
+    font-family: 'Garamond', 'sans-serif';
+    font-size: 25px;
+}
+
+.subtitle {
+    text-align: center;
+    font-family: 'Brush Script MT', 'sans-serif';
+    font-size: 30px;
 }
