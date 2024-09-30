@@ -1,0 +1,13 @@
+.main-title {
+    font-family: 'Brush Script MT', 'sans-serif';
+    text-align: center;
+    background-color: rgb(12, 194, 157);
+    font-size: 40px;
+}
+
+.list {
+    font-family: 'Garamond', 'sans-serif';
+    text-align: center;
+    background-color: rgb(233, 232, 191);
+    font-size: 20px;
+}
